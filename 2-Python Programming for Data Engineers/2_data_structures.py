@@ -247,7 +247,7 @@ dictionary.update(({"DA": "Data Analysis"}))
 # - Tuple
 
 tpl = ("George", "marry", 1, 51.3)
-type(tpl
+type(tpl)
 
 tpl[0]
 
