@@ -464,7 +464,7 @@ for col in num_cols:
 
 
 
-# (Analysis of Correlation
+# Analysis of Correlation
 
 import numpy as np
 import pandas as pd
@@ -541,7 +541,7 @@ drop_list = high_correlated_cols(df, plot=True)
 
 len(df.drop(drop_list, axis=1).columns)
 
-type(adsa)
+
 
 
 
