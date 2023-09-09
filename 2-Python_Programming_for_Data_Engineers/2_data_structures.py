@@ -6,15 +6,15 @@
 
 # - Introduction to Data Structures and Quick Summary
 
-# Sayilar: integer
+# numbers: integer
 x = 46
 type(x)
 
-# Sayilar: float
+# numbers: float
 x = 10.3
 type(x)
 
-# Sayilar: complex
+# numbers: complex
 x = 2j + 1
 type(x)
 
